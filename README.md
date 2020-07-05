@@ -1,2 +1,0 @@
-# BookListApp
-Simple Book listt
